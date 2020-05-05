@@ -42,6 +42,14 @@
 		background: url(../images/nav_on.gif);
 	}
 
+	#sch {
+		margin-left: 98px;
+		margin-top: 12px;
+		width: 220px;
+		outline: none;
+		border-style: none;
+	}
+
 	#banner {
 		margin: 6px 0;
 	}
