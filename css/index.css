@@ -111,6 +111,7 @@
 	.four a {
 		font-size: 12px;
 		color:#888;
+		line-height:10px
 	}
 
 	.four a:visited {
@@ -141,7 +142,7 @@
 
 	#art a {
 		font-size: 12px;
-		line-height: 29px;
+		line-height: 25px;
 		color: #888;
 		display: block;
 		height: 29px;
