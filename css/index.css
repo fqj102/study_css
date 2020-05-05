@@ -32,6 +32,11 @@
 		text-align: center;
 	}
 
+	#nav .on a{
+		color:white;
+		background: url(../images/nav_on.gif);
+	}
+
 	#nav a:hover {
 		color:white;
 		background: url(../images/nav_on.gif);
