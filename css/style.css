@@ -62,3 +62,26 @@ nav {
     text-align: center;
     border-radius: 5px;
 }
+
+.menuBtn {
+    text-align: center;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 10px 0px;
+    cursor: pointer;
+}
+
+#loginForm {
+    float:left;
+    display: block;
+    width: 400px;
+    text-align: center;
+    margin:20px;
+}
+
+#joinForm {
+    float:left;
+    display: none;
+    width: 400px;
+    text-align: center;
+    margin:20px;
+}
