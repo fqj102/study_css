@@ -85,3 +85,9 @@ nav {
     text-align: center;
     margin:20px;
 }
+
+#contentWrap{
+    width: 100%;
+    min-width: 1280px;
+    display: block;
+}
