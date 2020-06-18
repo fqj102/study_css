@@ -1,0 +1,30 @@
+html,body {
+    width:100%;
+    height: 100%;
+    margin: 0;
+    height: 0;
+}
+#wrapper::after {
+    clear:both;
+    content:'';
+    display: block;
+}
+.btn {
+    background: #fff;
+    padding: 7px 40px;
+    border: 1px solid RGB(0,126,243);
+    color: RGB(0,126,243);
+    font-size:  17px;
+}
+form input[type=text],form input[type=password] {
+    width:70%;
+    height:30px;
+    padding-left: 15px;
+    font-size : 15px;
+    border: 1px solid #aaa;
+}
+input[type=button],
+input[type=submit],
+button {
+    cursor:pointer
+}
